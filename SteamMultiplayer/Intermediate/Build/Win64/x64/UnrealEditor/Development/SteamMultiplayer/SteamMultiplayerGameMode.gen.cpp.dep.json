@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ia_unreal10\\unreqal_10_3parcial\\steam_multiplayer\\steammultiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\steammultiplayer\\uht\\steammultiplayergamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ia_unreal10\\unreqal_10_3parcial\\steam_multiplayer\\steammultiplayer\\intermediate\\build\\win64\\x64\\steammultiplayereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ia_unreal10\\unreqal_10_3parcial\\steam_multiplayer\\steammultiplayer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\steammultiplayer\\definitions.steammultiplayer.h",
+            "d:\\ia_unreal10\\unreqal_10_3parcial\\steam_multiplayer\\steammultiplayer\\source\\steammultiplayer\\steammultiplayergamemode.h",
+            "c:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\ia_unreal10\\unreqal_10_3parcial\\steam_multiplayer\\steammultiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\steammultiplayer\\uht\\steammultiplayergamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

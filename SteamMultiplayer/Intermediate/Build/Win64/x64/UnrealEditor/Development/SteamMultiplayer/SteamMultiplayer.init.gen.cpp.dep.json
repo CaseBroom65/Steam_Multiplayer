@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ia_unreal10\\unreqal_10_3parcial\\steam_multiplayer\\steammultiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\steammultiplayer\\uht\\steammultiplayer.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ia_unreal10\\unreqal_10_3parcial\\steam_multiplayer\\steammultiplayer\\intermediate\\build\\win64\\x64\\steammultiplayereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ia_unreal10\\unreqal_10_3parcial\\steam_multiplayer\\steammultiplayer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\steammultiplayer\\definitions.steammultiplayer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
